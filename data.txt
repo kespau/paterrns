@@ -1,0 +1,3 @@
+dog mammal Reksas 10 0,3 walk
+cat mammal Rainys 3 0,13  sneak
+pegeon bird Ryturys 0,4 0,09 fly
